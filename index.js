@@ -1,3 +1,3 @@
-const sayHello = (msg) => { console.log(`v1.2.0 says: ${msg}`)};
+const sayHello = (msg) => { console.log(`v1.2.1 says: ${msg}`)};
 
 module.exports = sayHello;
